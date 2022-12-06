@@ -1,0 +1,8 @@
+.container{
+    width: 200px;
+    border: 2px dotted black;
+    border-radius: 15px;
+    margin: 12px;
+    padding: 20px;
+    box-shadow: 2px 2px 1px 1.5px rgb(172, 161, 161);
+}
